@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoLoop", "6th_May\DoLoop.csproj", "{A69522C0-DB6C-47E5-9ADF-5315D115063F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calc_with_switchcase", "calc_with_switchcase\calc_with_switchcase.csproj", "{686B530B-5697-4915-A17D-FD274F116809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A69522C0-DB6C-47E5-9ADF-5315D115063F}.Debug|x86.ActiveCfg = Debug|x86
+		{A69522C0-DB6C-47E5-9ADF-5315D115063F}.Debug|x86.Build.0 = Debug|x86
+		{A69522C0-DB6C-47E5-9ADF-5315D115063F}.Release|x86.ActiveCfg = Release|x86
+		{A69522C0-DB6C-47E5-9ADF-5315D115063F}.Release|x86.Build.0 = Release|x86
+		{686B530B-5697-4915-A17D-FD274F116809}.Debug|x86.ActiveCfg = Debug|x86
+		{686B530B-5697-4915-A17D-FD274F116809}.Debug|x86.Build.0 = Debug|x86
+		{686B530B-5697-4915-A17D-FD274F116809}.Release|x86.ActiveCfg = Release|x86
+		{686B530B-5697-4915-A17D-FD274F116809}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
